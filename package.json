@@ -1,0 +1,21 @@
+{
+  "name": "monokhontrast",
+  "displayName": "Monokhontrast",
+  "description": "The best high contrast theme!!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokhontrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Monokhontrast-color-theme.json"
+      }
+    ]
+  }
+}
